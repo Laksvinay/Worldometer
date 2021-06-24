@@ -71,7 +71,7 @@ public class DynamicPopulation {
         
         
      //==========================For Today's birth=============================================================
-        System.out.println("===================================================");
+        System.out.println("======================For Today's birth=============================");
 
         countdown=200;
         dp.currenttime();
